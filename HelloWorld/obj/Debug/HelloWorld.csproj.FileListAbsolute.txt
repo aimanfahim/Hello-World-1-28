@@ -1,0 +1,8 @@
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\aimen\source\repos\GAME 1343\HelloWorld\obj\Debug\HelloWorld.pdb
